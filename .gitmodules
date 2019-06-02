@@ -1,0 +1,6 @@
+[submodule "components/core"]
+	path = components/core
+	url = https://gitlab.com/kairos-dev/core.git
+[submodule "doc"]
+	path = doc
+	url = https://gitlab.com/kairos-dev/documentation.git
